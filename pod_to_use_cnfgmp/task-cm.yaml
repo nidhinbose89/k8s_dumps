@@ -1,0 +1,11 @@
+apiVersion: v1
+data:
+  greeting: |
+    Hello World
+kind: ConfigMap
+metadata:
+  creationTimestamp: "2022-05-04T12:12:46Z"
+  name: task-cm
+  namespace: task
+  resourceVersion: "292027"
+  uid: b4388cb5-0acb-4e1c-ad1f-f1e4748a5e47
